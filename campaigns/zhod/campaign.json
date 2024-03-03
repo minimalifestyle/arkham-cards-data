@@ -1,0 +1,374 @@
+{
+  "id": "zhod",
+  "position": 23,
+  "version": 1,
+  "name": "Heart of Darkness",
+  "tarot": [
+    "africa_is_watching",
+    "to_the_heart_of_the_congo",
+    "the_avatar_of_darkness"
+  ],
+  "custom": {
+    "creator": "Vinn Quest",
+    "download_link": {
+      "en": "https://mysteriouschanting.wordpress.com/2023/06/30/heart-of-darkness-campaign/"
+    }
+  },
+  "campaign_type": "campaign",
+  "campaign_log": [
+    {
+      "id": "campaign_notes",
+      "title": "Campaign Notes"
+    },
+    {
+      "id": "darkness_calls",
+      "title": "Horror on Darkness Calls",
+      "type": "investigator_count"
+    },
+    {
+      "id": "information",
+      "title": "Information on Kurtz",
+      "type": "count"
+    }
+  ],
+  "scenarios": [
+    "zhod_prologue",
+    "africa_is_watching",
+    "zhod_interlude_1",
+    "to_the_heart_of_the_congo",
+    "zhod_interlude_2",
+    "the_avatar_of_darkness",
+    "zhod_epilogue"
+  ],
+  "setup": [
+    "quote",
+    "intro",
+    "choose_investigators",
+    "difficulty_choice",
+    "draw_weakness",
+    "$information_on_kurtz",
+    "$act_decks",
+    "$darkness_calls",
+    "$exile",
+    "$story_cards",
+    "$alert",
+    "$bonded",
+    "$explore"
+  ],
+  "rules": [
+    {
+      "title": "Information on Kurtz",
+      "steps": ["$information_on_kurtz"]
+    },
+    {
+      "title": "Act Decks",
+      "steps": ["$act_decks"]
+    },
+    {
+      "title": "Darkness Calls",
+      "steps": ["$darkness_calls"]
+    },
+    {
+      "title": "Exile",
+      "steps": ["$exile"]
+    },
+    {
+      "title": "Story Cards",
+      "steps": ["$story_cards"]
+    },
+    {
+      "title": "Alert",
+      "steps": ["$alert"]
+    },
+    {
+      "title": "Bonded",
+      "steps": ["$bonded"]
+    },
+    {
+      "title": "Explore (Updated version - Forgotten Age)",
+      "steps": ["$explore"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "draw_weakness",
+      "type": "input",
+      "bullet_type": "none",
+      "input": {
+        "type": "investigator_choice",
+        "source": "scenario",
+        "investigator": "all",
+        "choices": [
+          {
+            "id": "rbw",
+            "text": "Draw Random Basic Weakness",
+            "effects": [
+              {
+                "type": "add_weakness",
+                "investigator": "$input_value",
+                "weakness_traits": [],
+                "select_traits": false
+              },
+              {
+                "type": "remove_card",
+                "investigator": "$input_value",
+                "card": "01000",
+                "non_story": true
+              }
+            ],
+            "steps": ["save_decks"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "save_decks",
+      "type": "input",
+      "input": {
+        "type": "save_decks",
+        "trauma": true
+      }
+    },
+    {
+      "id": "quote",
+      "type": "story",
+      "title": "The Heart of the Truth is Concealed",
+      "text": "\"He struggled with himself, too. I saw it—I heard it. I saw the inconceivable mystery of a soul that knew no restraint, no faith, and no fear, yet struggling blindly with itself.\"\n- Joseph Conrad, \"Heart of Darkness\""
+    },
+    {
+      "id": "intro",
+      "bullet_type": "none",
+      "text": "During the course of your previous investigations, you have repeatedly faced the horrors of the Mythos. You have learned of conspiracies and dreadful rituals aimed to draw abominable beings into our world. Unspeakable entities, some of which would destroy the whole of humanity. But what if the danger is somewhere else? Lurking deep within us, in the darkest recesses of our souls, there is something biding its time. Will whatever has been hidden in our hearts since the dawn of time spark the beginning of our own destruction? \nTravel deep into the heart of the Congo and navigate its perilous waters aboard the Roi des Belges to discover the <i>Heart of Darkness</i>, an unofficial campaign for Arkham Horror: The Card Game.\nThe 3 scenarios of this campaign are an adaptation of the eponymous book by Joseph Conrad set within the Cthulhu Mythos. These scenarios can be played in standalone mode or as a side-story during any other campaign."
+    },
+    {
+      "id": "choose_investigators",
+      "type": "input",
+      "input": {
+        "type": "scenario_investigators"
+      }
+    },
+    {
+      "id": "difficulty_choice",
+      "text": "Choose difficulty level:",
+      "type": "input",
+      "input": {
+        "type": "choose_one",
+        "default_choice": "standard",
+        "choices": [
+          {
+            "id": "easy",
+            "text": "Easy",
+            "description": "<i>I fear the Darkness</i>",
+            "tokens": [
+              "+1",
+              "+1",
+              "0",
+              "0",
+              "0",
+              "-1",
+              "-1",
+              "-1",
+              "-2",
+              "-2",
+              "skull",
+              "skull",
+              "cultist",
+              "cultist",
+              "auto_fail",
+              "elder_sign"
+            ],
+            "effects": [
+              {
+                "type": "campaign_data",
+                "setting": "difficulty",
+                "value": "easy"
+              },
+              {
+                "type": "add_chaos_token",
+                "tokens": [
+                  "+1",
+                  "+1",
+                  "0",
+                  "0",
+                  "0",
+                  "-1",
+                  "-1",
+                  "-1",
+                  "-2",
+                  "-2",
+                  "skull",
+                  "skull",
+                  "cultist",
+                  "cultist",
+                  "auto_fail",
+                  "elder_sign"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "standard",
+            "text": "Standard",
+            "description": "<i>I want to face the Darkness</i>",
+            "tokens": [
+              "+1",
+              "0",
+              "0",
+              "-1",
+              "-1",
+              "-1",
+              "-2",
+              "-2",
+              "-3",
+              "-4",
+              "skull",
+              "skull",
+              "cultist",
+              "cultist",
+              "auto_fail",
+              "elder_sign"
+            ],
+            "effects": [
+              {
+                "type": "campaign_data",
+                "setting": "difficulty",
+                "value": "standard"
+              },
+              {
+                "type": "add_chaos_token",
+                "tokens": [
+                  "+1",
+                  "0",
+                  "0",
+                  "-1",
+                  "-1",
+                  "-1",
+                  "-2",
+                  "-2",
+                  "-3",
+                  "-4",
+                  "skull",
+                  "skull",
+                  "cultist",
+                  "cultist",
+                  "auto_fail",
+                  "elder_sign"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "hard",
+            "text": "Hard",
+            "description": "<i>I want to be pulled by the Darkness</i>",
+            "tokens": [
+              "0",
+              "0",
+              "0",
+              "-1",
+              "-1",
+              "-2",
+              "-2",
+              "-3",
+              "-3",
+              "-4",
+              "-5",
+              "skull",
+              "skull",
+              "cultist",
+              "cultist",
+              "auto_fail",
+              "elder_sign"
+            ],
+            "effects": [
+              {
+                "type": "campaign_data",
+                "setting": "difficulty",
+                "value": "hard"
+              },
+              {
+                "type": "add_chaos_token",
+                "tokens": [
+                  "0",
+                  "0",
+                  "0",
+                  "-1",
+                  "-1",
+                  "-2",
+                  "-2",
+                  "-3",
+                  "-3",
+                  "-4",
+                  "-5",
+                  "skull",
+                  "skull",
+                  "cultist",
+                  "cultist",
+                  "auto_fail",
+                  "elder_sign"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "expert",
+            "text": "Expert",
+            "description": "<i>I will heed the call</i>",
+            "tokens": [
+              "0",
+              "-1",
+              "-1",
+              "-2",
+              "-2",
+              "-3",
+              "-3",
+              "-4",
+              "-4",
+              "-5",
+              "-6",
+              "-7",
+              "-8",
+              "skull",
+              "skull",
+              "cultist",
+              "cultist",
+              "auto_fail",
+              "elder_sign"
+            ],
+            "effects": [
+              {
+                "type": "campaign_data",
+                "setting": "difficulty",
+                "value": "expert"
+              },
+              {
+                "type": "add_chaos_token",
+                "tokens": [
+                  "0",
+                  "-1",
+                  "-1",
+                  "-2",
+                  "-2",
+                  "-3",
+                  "-3",
+                  "-4",
+                  "-4",
+                  "-5",
+                  "-6",
+                  "-7",
+                  "-8",
+                  "skull",
+                  "skull",
+                  "cultist",
+                  "cultist",
+                  "auto_fail",
+                  "elder_sign"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

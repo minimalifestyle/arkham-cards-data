@@ -1,7 +1,7 @@
 {
   "id": "zcp",
   "position": 22,
-  "version": 2,
+  "version": 3,
   "name": "Call of the Plaguebearer",
   "tarot": [
     "late_risers",
@@ -37,8 +37,8 @@
     },
     {
       "id": "hidden",
-      "title": "hidden",
-      "type": "hidden"
+      "hidden": true,
+      "title": "Hidden"
     },
     {
       "id": "arkham_advertiser",

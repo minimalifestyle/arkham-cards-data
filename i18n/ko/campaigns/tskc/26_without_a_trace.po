@@ -12,9 +12,15 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Bermuda Triangle: Without a Trace"
-msgstr ""
+msgstr "버뮤다 삼각지대: Without a Trace"
 
 msgid "Bermuda Triangle"
+msgstr "버뮤다 삼각지대"
+
+msgid "Location Adjacency in the Realm of the Outsiders"
+msgstr ""
+
+msgid "Locations in the Shadows"
 msgstr ""
 
 msgid ""
@@ -91,9 +97,6 @@ msgstr ""
 msgid "Concealed Card"
 msgstr ""
 
-msgid "Location Adjacency in the Realm of the Outsiders"
-msgstr ""
-
 msgid "Throughout this scenario, locations are arranged in a pattern of rows and columns, along with concealed mini-cards <i>(see Locations in the Shadows, below)</i>. <b>Each location is connected to each location adjacent to it.</b>"
 msgstr ""
 
@@ -101,9 +104,6 @@ msgid "Adjacent locations share a side (left, right, above, or below). Locations
 msgstr ""
 
 msgid "During this scenario, concealed mini-cards are also placed adjacent to one or more locations as above, instead of placed at locations as normal <i>(see Locations in the Shadows, below)</i>."
-msgstr ""
-
-msgid "Locations in the Shadows"
 msgstr ""
 
 msgid "During this scenario, investigators must traverse the deceptively labyrinthine and illusory home world of the Outsiders. To represent the difficulty of exploring this alien dimension, three City of Remnants locations are placed in the shadows at all times (taken from the top of the Otherworld deck) and concealed mini-cards are arranged adjacent to locations, rather than placed at them. Exposing these concealed mini-cards is the key to finding a route through this otherworldly place."

@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "The Great Work"
 msgstr "Великое дело"
@@ -22,7 +22,7 @@ msgstr "Бермуды: Великое дело"
 msgid "Bermuda"
 msgstr "Бермуды"
 
-msgid "The Great Work 1: The brilliant sandy beaches and azure water dazzle your senses as you arrive in Bermuda proper. Rows of brightly painted homes add to the eye-popping landscape as you travel from one corner of Bermuda island to the other, asking locals for any possible leads on Coterie activity."
+msgid "The brilliant sandy beaches and azure water dazzle your senses as you arrive in Bermuda proper. Rows of brightly painted homes add to the eye-popping landscape as you travel from one corner of Bermuda island to the other, asking locals for any possible leads on Coterie activity."
 msgstr "Великое дело 1: Великолепные песчаные пляжи и лазурная вода ослепляют вас, когда вы прибываете на Бермуды. Ряды ярко окрашенных домиков дополняют живописный пейзаж, когда вы путешествуете из одного уголка Бермудского острова в другой, расспрашивая местных жителей в надежде найти зацепки о деятельности Клики."
 
 msgid "After mentioning Tuwile Masai by name, you are directed to a residence just past the Gibbs Hill Lighthouse on the southern end of the island. The directions lead you to a lavish bungalow with a well-kept garden overlooking the ocean. Keeping your guard up, you walk to the screen door of the house and knock. A familiar figure wearing loose slacks and a maroon linen shirt opens the door."
@@ -107,3 +107,18 @@ msgstr "Носитель Зловредного движителя:"
 
 msgid "Bearer of The Bale Engine"
 msgstr "Носитель Зловредного движителя"
+
+msgid "The Great Work 1"
+msgstr "Великое дело 1"
+
+msgid "The Great Work 2"
+msgstr "Великое дело 2"
+
+msgid "The Great Work 3"
+msgstr "Великое дело 3"
+
+msgid "The Great Work 4"
+msgstr "Великое дело 4"
+
+msgid "The Great Work 5"
+msgstr "Великое дело 5"

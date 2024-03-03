@@ -26,7 +26,7 @@ msgid "Paradox"
 msgstr "Paradoxe"
 
 msgid "The Labyrinths of Lunacy is a strange place. You will sometimes be confronted with seemingly impossible situations. Game text on cards might not make sense at first. Solving these paradoxes is the key to your survival. Keep a keen eye and be aware of your surroundings, and you <i>might</i> escape."
-msgstr "Les Labyrinthe de la Folie sont un endroit étrange. Vous serez parfois confronté à des situations apparemment inextricables. Le texte des cartes pourra n'avoir aucun sens à première vue. Résoudre ces paradoxes est la clé de votre survie. Gardez l'oeil ouvert et soyez vigilant vis-à-vis de ce qui vous entoure et vous aurez <i>peut-être</i> une chance de vous échapper."
+msgstr "Les Labyrinthe de la Folie sont un endroit étrange. Vous serez parfois confronté à des situations apparemment inextricables. Le texte des cartes pourra n'avoir aucun sens à première vue. Résoudre ces paradoxes est la clé de votre survie. Gardez l'œil ouvert et soyez vigilant vis-à-vis de ce qui vous entoure et vous aurez <i>peut-être</i> une chance de vous échapper."
 
 msgid "Select how you would like to play this scenario:"
 msgstr "Choisissez le mode de jeu :"
@@ -254,7 +254,7 @@ msgid "The investigators survived, but Eixodolon lives on."
 msgstr "Les investigateurs ont survécu, mais Eixodolon vit toujours."
 
 msgid "In the wrong hands, your anguish is a powerful weapon. Your blood fuels the arcane glyph carved into the cement floor at the labyrinth’s core. For the cruel mastermind who trapped you here, it is a moment of triumph and vindication. The entire world will feel this pain. This fear. This despair."
-msgstr "Entre de mauvaises mains, vos tourments deviennent une arme puissante. Votre sang alimente les glyphes ésotériques gravés dans le sol en ciment au coeur du labyrinthe. Pour le cruel instigateur de votre enlèvement, c'est un moment de triomphe et de jubilation. Le monde entier va ressentir cette douleur. Cette peur. Ce désespoir."
+msgstr "Entre de mauvaises mains, vos tourments deviennent une arme puissante. Votre sang alimente les glyphes ésotériques gravés dans le sol en ciment au cœur du labyrinthe. Pour le cruel instigateur de votre enlèvement, c'est un moment de triomphe et de jubilation. Le monde entier va ressentir cette douleur. Cette peur. Ce désespoir."
 
 msgid ""
 "The mastermind falls to his knees, his mask cracked. Blood drips from his open wounds onto the cement floor. “Do you really think you can escape?” he wheezes. His distorted voice is pained but triumphant. “Do you really think… I would ever let you leave this place?” His body collapses to the ground. Seeing an opportunity to escape, you rush to the iron doors sealing you in the warehouse. With a desperate effort, you are finally able to break the padlock and push open the heavy doors.\n"
@@ -289,7 +289,7 @@ msgstr ""
 
 msgid ""
 "You wake up and realize you are in a strange place, with no memory of how you arrived. Your muscles are weak and uncooperative. Your vision is blurred. Simply rising to your feet takes a tremendous effort. Your legs are wobbly and can barely support your weight.\n"
-"For the first time since awakening, you study your surroundings. You have been sealed in a tall glass tank, and water fills the chamber to your ankles. Outside the dull glass, you can see many more tanks like yours, wreathed in mist. You are a prisoner here, with no means of escape. There is a note lying on the ground just outside the tank. It reads:. It reads:\n"
+"For the first time since awakening, you study your surroundings. You have been sealed in a tall glass tank, and water fills the chamber to your ankles. Outside the dull glass, you can see many more tanks like yours, wreathed in mist. You are a prisoner here, with no means of escape. There is a note lying on the ground just outside the tank. It reads:\n"
 "<fancy>Greetings.</fancy>\n"
 "<fancy>I have gathered you here as an experiment. Think of this as a test of human will. You will survive. Or you will die.</fancy><fancy>You are not alone. Two other groups share in your fate. Will you risk your lives to aid them? Or will you find freedom upon the backs of their corpses?</fancy>\n"
 "<fancy>I will allow you to escape, should you prove strong of will and quick of wit. If not, your pain and anguish shall serve as a reminder that humans are not the inheritors of Earth.</fancy>"

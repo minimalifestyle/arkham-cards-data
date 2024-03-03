@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgid "Each time an investigator fails a skill test while attempting to evade an enemy with the \"alert\" keyword, after applying all results for that skill test, that enemy performs an attack against the evading investigator. An enemy does not exhaust after performing an alert attack. This attack occurs whether the enemy is engaged with the evading investigator or not."
+msgstr "Se un investigatore fallisce una prova di abilità tentando di eludere un nemico con Allerta, dopo aver applicato tutti i risultati relativi a quella prova di abilità, quel nemico effettua un attacco contro l'investigatore che ha tentato di eludere. Un nemico non si esaurisce dopo aver effettuato un attacco di allerta. Questo attacco si verifica a prescindere dal fatto che il nemico sia impegnato con l'investigatore che tenta di eludere o meno."
+
+msgid "Horror on Darkness Calls"
+msgstr ""
+
+msgid "Darkness Calls"
+msgstr ""
+
+msgid "Explore (Updated version - Forgotten Age)"
+msgstr ""
+
+msgid "The Heart of the Truth is Concealed"
+msgstr ""
+
+msgid ""
+"\"He struggled with himself, too. I saw it—I heard it. I saw the inconceivable mystery of a soul that knew no restraint, no faith, and no fear, yet struggling blindly with itself.\"\n"
+"- Joseph Conrad, \"Heart of Darkness\""
+msgstr ""
+
+msgid ""
+"During the course of your previous investigations, you have repeatedly faced the horrors of the Mythos. You have learned of conspiracies and dreadful rituals aimed to draw abominable beings into our world. Unspeakable entities, some of which would destroy the whole of humanity. But what if the danger is somewhere else? Lurking deep within us, in the darkest recesses of our souls, there is something biding its time. Will whatever has been hidden in our hearts since the dawn of time spark the beginning of our own destruction? \n"
+"Travel deep into the heart of the Congo and navigate its perilous waters aboard the Roi des Belges to discover the <i>Heart of Darkness</i>, an unofficial campaign for Arkham Horror: The Card Game.\n"
+"The 3 scenarios of this campaign are an adaptation of the eponymous book by Joseph Conrad set within the Cthulhu Mythos. These scenarios can be played in standalone mode or as a side-story during any other campaign."
+msgstr ""
+
+msgid "<i>I fear the Darkness</i>"
+msgstr ""
+
+msgid "<i>I want to face the Darkness</i>"
+msgstr ""
+
+msgid "<i>I want to be pulled by the Darkness</i>"
+msgstr ""

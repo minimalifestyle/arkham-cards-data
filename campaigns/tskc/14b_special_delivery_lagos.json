@@ -52,7 +52,9 @@
         "id": "the_scarlet_keys.special_delivery.special_delivery_3",
         "name": "Special Delivery 3",
         "lang": [
-          "dv"
+          "dv",
+          "es",
+          "ru"
         ]
       },
       "type": "story",
@@ -94,7 +96,9 @@
         "id": "the_scarlet_keys.special_delivery.special_delivery_4",
         "name": "Special Delivery 4",
         "lang": [
-          "dv"
+          "dv",
+          "es",
+          "ru"
         ]
       },
       "type": "story",

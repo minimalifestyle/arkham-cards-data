@@ -12,10 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Finale: Congress of the Keys"
-msgstr ""
+msgstr "피날레: 열쇠 의회"
 
 msgid "Tunguska: Finale"
-msgstr ""
+msgstr "퉁구스카: 피날레"
 
 msgid "<i>Remember to attach any key that the Coterie member is the bearer of when they enter play.</i>"
 msgstr ""
@@ -461,6 +461,9 @@ msgid ""
 "“But if they are intelligent entities as our new friends claim they are, how could they possibly know so much of our inner workings?” Your detractor argues. A dreadful hunch stirs in your mind. You scan the room and remark that one among the Congress is missing. The rest of the assembly follows your gaze, with several of them standing to search the chamber more thoroughly. One of them confirms your suspicions by raising a single red glove, discarded and forgotten as though mundane, immaterial.\n"
 "The woman in the vermillion veil is the first to understand your thread of logic. “Spread out,” she shouts, her voice warbling. “Find him. Learn where he is headed. And be ready for anything.”\n"
 "It doesn’t take long before the doorway is found—a shimmering portal of extradimensional energy, ebbing with eldritch power. “It’s closing,” one of the others observes. Indeed, the doorway seems to be shrinking as it steadily swirls, and soon enough there will be nothing left of it. “We don’t have much time.”"
+msgstr ""
+
+msgid "Remove all other [[Coterie]] enemies from the game."
 msgstr ""
 
 msgid "Put the [[Lair]] versions of Scarlet Halls and the three Coterie Sanctuary locations into play."

@@ -12,6 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Prologue: Riddles and Rain"
+msgstr "서막: 비와 수수께끼"
+
+msgid "Tracking Time"
 msgstr ""
 
 msgid ""
@@ -82,9 +85,6 @@ msgid "Read the rules for “Tracking Time” below. Mark 1 <b>time</b> in your 
 msgstr ""
 
 msgid "Read the rules for “Tracking Time” below. Mark 2 <b>time</b> in your Campaign Log now."
-msgstr ""
-
-msgid "Tracking Time"
 msgstr ""
 
 msgid ""

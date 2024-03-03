@@ -11,9 +11,6 @@ msgstr ""
 "Content-Type: \n"
 "Content-Transfer-Encoding: \n"
 
-msgid "The Darkness"
-msgstr ""
-
 msgid "Interlude V: The Darkness"
 msgstr ""
 
@@ -69,9 +66,6 @@ msgid "Torchlight"
 msgstr ""
 
 msgid "the braziers are lit."
-msgstr ""
-
-msgid "The Abyss"
 msgstr ""
 
 msgid "the braziers remain unlit."

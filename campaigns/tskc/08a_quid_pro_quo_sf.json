@@ -20,7 +20,9 @@
         "id": "the_scarlet_keys.quid_pro_quo.quid_pro_quo_1",
         "name": "Quid Pro Quo 1",
         "lang": [
-          "dv"
+          "dv",
+          "es",
+          "ru"
         ]
       },
       "type": "story",
@@ -108,7 +110,9 @@
         "id": "the_scarlet_keys.quid_pro_quo.quid_pro_quo_3",
         "name": "Quid Pro Quo 3",
         "lang": [
-          "dv"
+          "dv",
+          "es",
+          "ru"
         ]
       },
       "type": "story",

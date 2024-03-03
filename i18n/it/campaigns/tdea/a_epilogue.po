@@ -1,15 +1,17 @@
 msgid ""
 msgstr ""
-"Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Content-Type: \n"
-"Content-Transfer-Encoding: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "Do not read this interlude until you have completed <b>Scenario IV–B: Weaver of the Cosmos</b>."
 msgstr "Non leggete questo interludio finché non è stato completato lo <b>Scenario IV–B: La Tessitrice del Cosmo</b>."
@@ -173,3 +175,51 @@ msgstr "Controllate entrambi i Diari della Campagna. Perchè <i>i sognatori si s
 
 msgid "Check the Campaign Log for both campaigns. Because <i>the dreamers traveled beneath the monastery</i> (Campaign A) and <i>the investigators are still in the Dreamlands</i> (Campaign B):"
 msgstr "Controllate entrambi i Diari della Campagna. Perchè <i>i sognatori si sono recati sotto al monastero</i> (Campagna A) e <i>gli investigatori sono ancora nel Mondo dei Sogni</i> (Campagna B):"
+
+msgid "Epilogue 1"
+msgstr "Epilogo 1"
+
+msgid "Epilogue 2"
+msgstr "Epilogo 2"
+
+msgid "Epilogue 3"
+msgstr "Epilogo 3"
+
+msgid "Epilogue 4"
+msgstr "Epilogo 4"
+
+msgid "Epilogue 5"
+msgstr "Epilogo 5"
+
+msgid "Epilogue 6"
+msgstr "Epilogo 6"
+
+msgid "Epilogue 7"
+msgstr "Epilogo 7"
+
+msgid "Epilogue 8"
+msgstr "Epilogo 8"
+
+msgid "Epilogue 9"
+msgstr "Epilogo 9"
+
+msgid "Epilogue 10"
+msgstr "Epilogo 10"
+
+msgid "Epilogue 11"
+msgstr "Epilogo 11"
+
+msgid "Epilogue 12"
+msgstr "Epilogo 12"
+
+msgid "Epilogue 13"
+msgstr "Epilogo 13"
+
+msgid "Epilogue 14"
+msgstr "Epilogo 14"
+
+msgid "Epilogue 15"
+msgstr "Epilogo 15"
+
+msgid "Epilogue 16"
+msgstr "Epilogo 16"
